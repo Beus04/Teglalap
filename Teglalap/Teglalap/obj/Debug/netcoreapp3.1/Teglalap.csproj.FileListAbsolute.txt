@@ -1,0 +1,14 @@
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.exe
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.deps.json
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.runtimeconfig.json
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.runtimeconfig.dev.json
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.dll
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\bin\Debug\netcoreapp3.1\Teglalap.pdb
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.csproj.AssemblyReference.cache
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.AssemblyInfoInputs.cache
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.AssemblyInfo.cs
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.csproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.dll
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.pdb
+C:\Users\porti\source\repos\Teglalap\Teglalap\Teglalap\obj\Debug\netcoreapp3.1\Teglalap.genruntimeconfig.cache
